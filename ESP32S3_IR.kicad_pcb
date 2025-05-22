@@ -1978,7 +1978,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b1df979f-51b8-40fd-96b7-3093d619e7cd")
-		(at 162.62 92 -90)
+		(at 162.62 81.5 -90)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
 		(property "Reference" "J3"
@@ -2253,7 +2253,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 		(layer "F.Cu")
 		(uuid "cfdc2ea4-c6a0-43e7-956f-d6c9a02eddd4")
-		(at 164 85 90)
+		(at 164 88.5 90)
 		(descr "https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf")
 		(tags "SPST button tactile switch")
 		(property "Reference" "SW3"
@@ -2553,7 +2553,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 		(layer "F.Cu")
 		(uuid "d4656e7b-23c9-4cd0-832b-85e28295f92c")
-		(at 153 85 90)
+		(at 153 88.5 90)
 		(descr "https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf")
 		(tags "SPST button tactile switch")
 		(property "Reference" "SW1"
@@ -2853,7 +2853,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3"
 		(layer "F.Cu")
 		(uuid "fadd8375-1c52-4772-a0a3-3b5a2b2f4169")
-		(at 158.5 85 90)
+		(at 158.5 88.5 90)
 		(descr "https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf")
 		(tags "SPST button tactile switch")
 		(property "Reference" "SW2"
